@@ -1,3 +1,15 @@
+# RocketSeat ReactJS - Timer Projeto 02 
+This Project is an Pomodoro Timer with an history page from previous Task.
+
+This application use:
+Styled Component 
+Router with React-Router-DOM
+React Hook Form
+Context API
+Reducers 
+Immer
+Zod
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
